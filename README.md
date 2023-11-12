@@ -1,5 +1,6 @@
 # Arduino-SCD30
 Implementation made for Arduino REV4 Wifi + SCD30 + LCD + 4 touch buttons
+![](https://github.com/DeusExMakina/Arduino-SCD30/blob/main/Arduino%20screenshot.png)
 
 # Hardware
 ## Mandatory
